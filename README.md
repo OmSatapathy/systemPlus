@@ -17,5 +17,5 @@
 
 3. **Run testcses**:
 
-    mvn clean install
-    mvn test
+    - mvn clean install
+   -  mvn test
