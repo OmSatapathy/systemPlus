@@ -12,8 +12,8 @@
 
 2. **Clone the repository**:
   
-   git clone https://github.com/OmSatapathy/systemPlus.git
-   cd systemsplus
+  - git clone https://github.com/OmSatapathy/systemPlus.git
+  - cd systemsplus
 
 3. **Run testcses**:
 
