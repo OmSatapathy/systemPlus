@@ -1,6 +1,6 @@
 - **pages**: Contains Page Object Model classes for each webpage.
 - **tests**: Contains TestNG test cases.
-- **config.properties**: Holds configuration settings like URLs and credentials.
+
 
 ## Setup
 
