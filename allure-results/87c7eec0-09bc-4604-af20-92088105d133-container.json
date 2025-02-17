@@ -1,0 +1,1 @@
+{"uuid":"87c7eec0-09bc-4604-af20-92088105d133","name":"systemsplus.BaseTest.setUp","children":["78e133c7-f512-43af-9e44-40f702a3c8ab"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736152812794,"stop":1736152819842}],"afters":[],"start":1736152812794,"stop":1736152819842}
